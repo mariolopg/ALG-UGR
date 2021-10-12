@@ -1,0 +1,27 @@
+iter      chisq       delta/lim  lambda   a            
+   0 6.5666664696e+19   0.00e+00  1.15e+09    1.000000e+00
+   1 2.5246699229e+16  -2.60e+08  1.15e+08    1.960785e-02
+   2 1.0094641423e+09  -2.50e+12  1.15e+07    3.923096e-06
+   3 5.7312849300e-02  -1.76e+15  1.15e+06    2.319845e-09
+   4 5.3275009310e-02  -7.58e+03  1.15e+05    2.312004e-09
+   * 5.3275009310e-02   1.69e-10  1.15e+06    2.312004e-09
+   * 5.3275009310e-02   1.69e-10  1.15e+07    2.312004e-09
+   * 5.3275009310e-02   3.52e-10  1.15e+08    2.312004e-09
+   * 5.3275009310e-02   1.17e-10  1.15e+09    2.312004e-09
+   * 5.3275009310e-02   1.82e-10  1.15e+10    2.312004e-09
+   * 5.3275009310e-02   1.17e-10  1.15e+11    2.312004e-09
+   * 5.3275009310e-02   2.74e-10  1.15e+12    2.312004e-09
+   5 5.3275009310e-02  -1.30e-11  1.15e+11    2.312004e-09
+iter      chisq       delta/lim  lambda   a            
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 0.053275
+rel. change during last iteration : -1.30247e-16
+
+degrees of freedom    (FIT_NDF)                        : 49
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0329734
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00108725
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 2.312e-09        +/- 4.069e-12    (0.176%)
